@@ -22,10 +22,10 @@ Unioracle Source code can be found on [Github](https://github.com/Unioracle). We
 Unioracle Token (UNO) [`0x523Bc523FdaDFF610e11fD78192CDb6a853de1F0`](https://etherscan.io/token/0x523Bc523FdaDFF610e11fD78192CDb6a853de1F0)
 
 # Unioracle Oracle Contract 🔮
-ExampleSlidingWindowOracle [`0xEb4c674f47E3e766D980Ab9326Cf29a14D50f8f9`](https://etherscan.io/address/0xeb4c674f47e3e766d980ab9326cf29a14d50f8f9#code)
+ExampleSlidingWindowOracle [`0x97376FDD337C743eDf3D5708599CB2dffeBcF609`](https://etherscan.io/address/0x97376FDD337C743eDf3D5708599CB2dffeBcF609)
 
 # Unioracle Router Contract 🔮
-UniswapV2Router03 [`0xF7Ac2090a53Cb7aCD3Dcab93f632C550fD309d72`](https://etherscan.io/address/0xf7ac2090a53cb7acd3dcab93f632c550fd309d72)
+UnioracleV2Router01 [`0xAA30167B16B41E3E85f126E8a9f41A3feBba0048`](https://etherscan.io/address/0xAA30167B16B41E3E85f126E8a9f41A3feBba0048)
 
 
 # FAQ 🔮
